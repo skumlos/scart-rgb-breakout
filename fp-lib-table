@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name k-scartx-024)(type KiCad)(uri "$(KIPRJMOD)/k-scartx-024.pretty")(options "")(descr ""))
+  (lib (name eswitch-dpdt)(type KiCad)(uri "$(KIPRJMOD)/eswitch-dpdt.pretty")(options "")(descr ""))
+  (lib (name rca)(type KiCad)(uri "$(KIPRJMOD)/rca.pretty")(options "")(descr ""))
+)
